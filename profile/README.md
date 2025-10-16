@@ -23,5 +23,6 @@ An intelligent, real-time solution that integrates water distribution operations
 ## 📫 How to reach us
 [🌐 Website](https://www.ua.pt/pt/reachoptimum-tema)\
 [🔗 LinkedIn](https://www.linkedin.com/company/reachoptimum)\
+[🔴 YouTube](https://www.youtube.com/@ReachOptimum-TEMA)\
 [✉️ Email](mailto:reachoptimum.tema@gmail.com)
 
