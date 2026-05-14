@@ -49,7 +49,7 @@ Develop smart, efficient, and resilient water systems, combining optimization, a
 Develop data-efficient, interpretable computational mechanics models that combine finite element simulation, inverse identification, and machine learning to improve the reliability of advanced sheet metal forming predictions.
 </p>
 
-#### COMPETE2030-FEDER-00778700
+#### COMPETE2030-FEDER-00778700 &nbsp;•&nbsp; LSD-TRIP
 
 [🌐 Website](https://compete2030.gov.pt/operacoes/listagem/COMPETE2030-FEDER-00778700/)
 
